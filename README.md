@@ -1,3 +1,17 @@
+# Problem
+-> Create a slideshow component
+-> You should be able to feed in an array of images
+-> it should have a default start index
+-> there should be a prop that decides how many images to be shown
+-> width and height of the container also should be given as a prop
+-> there needs to be a prop which decides if the movement is automatic or manual
+-> If it is manual
+-> there needs to be two buttons Next and Prev, when clicking on the same the next image shows up
+-> when the user is at the last image ( in view ), the clicking on next will show first image in view, and it should continue
+-> it should work both ways
+-> if it is automatic, then you should accept time delay, and direction,
+-> the image should move in the direction given
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
