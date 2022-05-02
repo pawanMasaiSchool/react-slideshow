@@ -12,7 +12,6 @@ function App() {
           "https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=",
           "https://images.pexels.com/photos/302743/pexels-photo-302743.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
         ]}
-
         // there needs to be a prop which decides if the movement is automatic or manual
         // autoplay is nothing but time delay between two slides
         // it should be more than 500 otherwise it won't work
